@@ -7,6 +7,7 @@ Group:		System/Servers
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	mille-xterm-appserver >= 1.0
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 The mille-xterm application server is the component that terminal will connect
