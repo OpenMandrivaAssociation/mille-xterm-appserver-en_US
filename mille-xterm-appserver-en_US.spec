@@ -1,7 +1,7 @@
 Summary:	Mille-xterm application server english patch
 Name:		mille-xterm-appserver-en_US
 Version:	1.0
-Release:	%mkrel 1
+Release:	%mkrel 3
 License:	GPL
 Group:		System/Servers
 Source0:	%{name}-%{version}.tar.bz2
