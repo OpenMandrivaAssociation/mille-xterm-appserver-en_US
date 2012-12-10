@@ -147,3 +147,33 @@ fi
 %{_sysconfdir}/custom/share/doc/HTML/.index.html.en_US
 
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.0-5mdv2011.0
++ Revision: 620329
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 1.0-4mdv2010.0
++ Revision: 430028
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tv@mandriva.org> 1.0-3mdv2009.0
++ Revision: 252429
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 1.0-1mdv2008.1
++ Revision: 136579
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Thu Feb 08 2007 Oden Eriksson <oeriksson@mandriva.com> 1.0-1mdv2007.0
++ Revision: 117757
+- Import mille-xterm-appserver-en_US
+
+* Tue Jan 23 2007 Mikael Andersson <mikael.andersson@envitory.se> 1.0-1mdk
+- initial Mandriva package
+
